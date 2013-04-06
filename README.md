@@ -8,3 +8,4 @@ Mysql(Mango,sqllite etc),run on linux(or any web server)
   2.adapte to build Web 2.0 and SNS and EBusiness station with a demo
   3.easy to install ,just one-key
   4.free to all usings:commercial ,none commercial 
+  5.base frame work version 0.1
