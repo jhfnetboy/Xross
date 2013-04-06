@@ -9,3 +9,5 @@ Mysql(Mango,sqllite etc),run on linux(or any web server)
   3.easy to install ,just one-key
   4.free to all usings:commercial ,none commercial 
   5.base frame work version 0.1
+
+test for ssh login
